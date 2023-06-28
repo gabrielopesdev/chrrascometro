@@ -20,7 +20,7 @@ function calcular() {
 
     function meatPP(elements) {
 
-        if (elements[0] >= 6) {
+        if (elements[2] >= 6) {
 
             return 650
 
@@ -33,7 +33,7 @@ function calcular() {
 
     function drinkPP(elements) {
 
-        if (elements[0] >= 6) {
+        if (elements[2] >= 6) {
 
             return 1500
 
@@ -46,7 +46,7 @@ function calcular() {
 
     function bearPP(elements) {
 
-        if (elements[0] >= 6) {
+        if (elements[2] >= 6) {
 
             return 2000
 
